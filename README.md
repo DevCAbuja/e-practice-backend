@@ -23,15 +23,12 @@
 
 **TECHNOLOGIES:**
 
-* React,
+* Express-Node => Server to save user points and create a leaderboard
 
-* Redux => State management,
+* JWT => Authentication
 
-> * *Test => Mocha*
+> * *Test => Jasmine*
  
-> * *Express-Node => Server to save user points and create a leaderboard*
-
-
 
 
 **DEPLOYMENT PLATFORMS:**
